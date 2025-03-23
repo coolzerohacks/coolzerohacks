@@ -4,7 +4,7 @@
 # By Ahmed Aboul-Ela - twitter.com/aboul3la
 
 # Define your Virustotal API key
-vt_apikey = 'bf14f7e5739c8908f98f937f4160c95e2cbced6bd8e8715da26d3b0ade1c9c85'
+vt_apikey = 'PASTE YOUR VIRUSTOTAL KEY HERE'
 
 
 # modules in standard library
