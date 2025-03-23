@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolzerohacks
 - 👀 I’m interested in ethical hacking, penetration testing, scripting, and solving challenging CTFs
-- 🌱 I’m currently learning how to use Kali Linux and Cyber Security Tookls to  be able to improve my chances in CTF Challenges and Bug Bounty. 
+- 🌱 I’m currently learning how to use Kali Linux and Cyber Security Tools to  be able to improve my chances in CTF Challenges and Bug Bounty. 
 - 💞️ I’m looking to collaborate on CTF Challenges I have a team  Ciphered Chaos Crushers and Discord Server for beginners to collaborate on. for fun keeping it chilled
 - 📫 How to reach me Discord @coolzerohacks
 - 😄 Pronouns: They/Them
